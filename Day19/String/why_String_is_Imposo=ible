@@ -1,0 +1,4 @@
+// String are storedd in the heap when a string is changed a new string is created instead of of modifying the existing one
+
+
+
